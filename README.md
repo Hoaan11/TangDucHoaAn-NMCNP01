@@ -1,17 +1,18 @@
 Lab 1 – Khởi tạo dự án & Định nghĩa yêu cầu
-🔹 Nội dung
+
+ Nội dung
 
 •	Giới thiệu mô hình phát triển phần mềm (Waterfall, Incremental, Agile).
 
 •	Viết Project Definition và Software Requirement Specification (SRS).
 
-🧩 Bài tập
+ Bài tập
 
 •	Chọn đề tài mini-project (đề tài: Ứng dụng bán lẻ tạp hóa công nghệ 4.0).
 
 •	Soạn tài liệu Project Definition + SRS theo mẫu.
 
-📂 Kết quả nộp
+ Kết quả nộp
 
 •	Project_Definition_SRS.docx
 
@@ -20,13 +21,13 @@ Lab 1 – Khởi tạo dự án & Định nghĩa yêu cầu
 
 Lab 2 – Phân tích & Mô hình hóa hệ thống
 
-🔹 Nội dung
+ Nội dung
 
 •	Thiết kế Use Case, Activity, Class, Sequence, ERD, DFD.
 
 •	Mô tả luồng sự kiện và hành vi của hệ thống.
 
-🧩 Bài tập
+ Bài tập
 
 •	Vẽ sơ đồ UML dựa trên SRS của Lab 1:
 
@@ -38,7 +39,7 @@ o	Class Diagram, Sequence Diagram.
 
 o	ERD và DFD (mức 0, mức 1).
 
-📂 Kết quả nộp
+ Kết quả nộp
 
 •	Thư mục: /lab2/uml-diagrams/
 
@@ -47,7 +48,7 @@ o	ERD và DFD (mức 0, mức 1).
 
 Lab 3 – Quản lý dự án & Quản lý cấu hình
 
-🔹 Nội dung
+ Nội dung
 
 •	Lập Project Plan, WBS, Gantt Chart bằng Jira/Confluence.
 
@@ -55,13 +56,13 @@ Lab 3 – Quản lý dự án & Quản lý cấu hình
 
 •	Quản lý mã nguồn bằng GitHub.
 
-🧩 Bài tập
+ Bài tập
 
 •	Tạo WBS + Gantt Chart cho dự án nhóm.
 
 •	Commit toàn bộ tài liệu và diagram lên GitHub repo này.
 
-📂 Kết quả nộp
+ Kết quả nộp
 
 •	Thư mục: /lab3/
 
@@ -69,7 +70,7 @@ Lab 3 – Quản lý dự án & Quản lý cấu hình
 
 Lab 4 – Thiết kế, Kiểm thử & Triển khai
 
-🔹 Nội dung
+ Nội dung
 
 •	Thiết kế giao diện người dùng (UI) và cơ sở dữ liệu.
 
@@ -79,7 +80,7 @@ Lab 4 – Thiết kế, Kiểm thử & Triển khai
 
 •	Đóng gói & triển khai.
 
-🧩 Bài tập
+ Bài tập
 
 •	Thiết kế UI (Figma hoặc HTML/CSS).
 
@@ -89,7 +90,7 @@ Lab 4 – Thiết kế, Kiểm thử & Triển khai
 
 •	Deploy demo (Heroku, Xampp, Azure,...)
 
-📂 Kết quả nộp
+ Kết quả nộp
 
 •	Thư mục: /lab4/
 
